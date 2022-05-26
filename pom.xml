@@ -12,6 +12,7 @@
 	<groupId>org.npci.restaurantapp</groupId>
 	<artifactId>RestaurantApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>RestaurantApp</name>
 	<description>final project</description>
 	<properties>
