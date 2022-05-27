@@ -1,3 +1,3 @@
-FROM tomcat:8.5.79-jre11
+FROM tomcat
  
 COPY target/RestaurantApp*.war /usr/local/tomcat/webapps/RestaurantApp.war
